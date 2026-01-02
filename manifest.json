@@ -1,0 +1,16 @@
+{
+  "name": "VanillaGift Balance Checker",
+  "short_name": "VanillaGift",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#C62828",
+  "description": "Check your Vanilla Gift balance and VanillaGift.com balance online instantly.",
+  "icons": [
+    {
+      "src": "https://balance.ecox.click",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
